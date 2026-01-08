@@ -1,0 +1,7 @@
+bu bir feat dosyasıdır. Main Branch icerisinde degildir. 
+1
+2
+3
+4
+5
+
