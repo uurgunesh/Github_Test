@@ -1,0 +1,6 @@
+Bu dosya github ile pullandı & merge edildi ve sonrasında pushlandı.
+1
+2
+3
+4
+5
